@@ -1,0 +1,4 @@
+suites:
+  library_suite:
+    namespace: Dx
+    psr4_prefix: Dx
